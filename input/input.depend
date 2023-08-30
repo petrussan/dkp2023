@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693387290 source:d:\dkp\input\main.c
+	<stdio.h>
+	<stdlib.h>
+
