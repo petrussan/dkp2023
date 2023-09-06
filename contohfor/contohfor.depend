@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693993130 source:d:\dkp\contohfor\main.c
+	<stdio.h>
+	<stdlib.h>
+
