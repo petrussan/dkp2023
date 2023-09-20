@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695201690 source:d:\dkp\contohmatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

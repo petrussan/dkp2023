@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695203573 source:d:\dkp\gotoxy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
