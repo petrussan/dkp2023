@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695802588 source:d:\dkp\fungsistring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

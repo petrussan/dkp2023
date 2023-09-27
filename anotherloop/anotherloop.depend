@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695807179 source:d:\dkp\anotherloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
