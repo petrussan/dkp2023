@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700037536 source:d:\dkp\arrayaspointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
